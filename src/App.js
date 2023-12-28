@@ -1,6 +1,5 @@
 import React from 'react';
 import './App.css';
-import Navbar from './components/Navbar';
 import Login from './components/Login';
 import Blogs from './components/Blogs';
 import AddBlogs from './components/AddBlogs';
