@@ -1,4 +1,6 @@
 # BlogApp
+This is a blog application built using React and Firebase. The application 
+allows users to create, read, and delete blog posts.
 
 ## Getting Started
 To begin using BlogApp, follow these simple steps:
