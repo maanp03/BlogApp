@@ -1,5 +1,5 @@
 # BlogApp
-This is a blog application built using React and Firebase. The application 
+This is a blog application built using React and Firebase.The application <br>
 allows users to create, read, and delete blog posts.
 
 ## Getting Started
